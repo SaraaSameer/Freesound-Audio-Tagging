@@ -17,7 +17,6 @@ The dataset of this competition can be easily found at <a href="https://www.kagg
     ! chmod 600 ~/.kaggle/kaggle.json
     ! kaggle competitions download freesound-audio-tagging
     ! unzip freesound-audio-tagging.zip
-    
     ```
 </ol>
 
