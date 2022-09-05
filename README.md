@@ -11,7 +11,7 @@ The dataset of this competition can be easily found at <a href="https://www.kagg
 <ol>
   <li> Download your API token from your Kaggle Profile section. A file named 'Kaggle.json' will be downloaded.
   <li> Set up your colab notebook by uplaoding the kaggle.json file. Then exceute the following commands.
-<\ol>
+</ol>
    ```
     ! pip install -q kaggle
     ! cp kaggle.json ~/.kaggle/
