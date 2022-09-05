@@ -11,6 +11,7 @@ The dataset of this competition can be easily found at <a href="https://www.kagg
 <ol>
   <li> Download your API token from your Kaggle Profile section. A file named 'Kaggle.json' will be downloaded.
   <li> Set up your colab notebook by uplaoding the kaggle.json file. Then exceute the following commands.
+<\ol>
    ```
     ! pip install -q kaggle
     ! cp kaggle.json ~/.kaggle/
@@ -18,7 +19,6 @@ The dataset of this competition can be easily found at <a href="https://www.kagg
     ! kaggle competitions download freesound-audio-tagging
     ! unzip freesound-audio-tagging.zip
     ```
-</ol>
 
 ## Acknowledgment
 https://www.youtube.com/watch?v=3CtPuwok7Nw&list=PL6r4_rPnd1bJsepeF3T2txtbSXv01pFY4
